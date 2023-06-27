@@ -1,0 +1,110 @@
+[
+    {
+        "link": "Ping Pong/index",
+        "repository": "https://github.com/NielRodrigues/ping-pong",
+        "img": "ping-pong.png",
+        "title": "PING PONG",
+        "description": "Esse é um projeto básico desenvolvido pelo canvas no HTML. É um jogo que manipula a posição de elementos na tela em tempo real.",
+        "date": "02-22-2023",
+        "tech": ["html5", "css3", "javascript"]
+    },
+    {
+        "link": "Gerador de Senhas/index",
+        "repository": "https://github.com/NielRodrigues/Gerador-de-Senhas",
+        "img": "gerador-de-senhas.png",
+        "title": "Gerador de Senhas",
+        "description": "Nesse projeto de Gerador de Senhas foi feito manipulação de HTML e CSS com DOM utilizando Javascript, além de funções desenvolvidas para edição desses elementos, com estruturas de decisão e repetição.",
+        "date": "03-02-2023",
+        "tech": ["html5", "css3", "javascript"]
+    },
+    {
+        "link": "https://carlosdanieldev.netlify.app/",
+        "repository": "https://github.com/NielRodrigues/portfolio",
+        "img": "portifolio.png",
+        "title": "Portifólio",
+        "description": "Esse portifólio foi desenvolvido por mim utilizando os meus conhecimentos avançados em HTML5, CSS3 e Javascript. Para esse portifólio, primeiramente, eu desenvolvi o design no Figma aplicando meus habilidades como UX/UI Design. Eu também utilizei o pré-processador CSS para construir esse site, o SASS. Algumas bibliotecas como Typed.JS e Owl Carousel foram utilizadas nesse portifólio para esse site. Eu também desenvolvi animações para o Menu Mobile utilizando Javascript e CSS, aplicando também os conceitos de responsividade. Em Javascript eu apliquei também meu conhecimentos em AJAX para consumir um API pra envio de dados do formulário para meu email.",
+        "date": "03-21-2023",
+        "tech": ["html5", "css3", "javascript", "sass"]
+    },
+    {
+        "link": "https://cr-reservadehotel-2703.netlify.app/",
+        "repository": "https://github.com/NielRodrigues/Reserva-de-Hotel",
+        "img": "reserva-de-hotel.png",
+        "title": "Reserva de Hotel",
+        "description": "Esse foi um projeto que eu desenvolvi para aplicar os meus conhecimentos no framework de 'Bootstrap'. O projeto tinha como principal objetivo em utilizar classes do Bootstrap, trabalhar com tags e formulários. Não foi feita nenhuma automoção utilizando Javascript para esse projeto. Eu apenas apliquei meus conhecimentos para trabalhar com UX/UI Design, bem como conhecimentos avançandos em HTML e CSS. Para esse projeto eu utilizei, além de HTML5 e CSS3, o pré-processador CSS, o Sass, como também Framework do CSS, o Bootstrap. Eu também utilizei alguma bibliotecas como a Font Awesome e Materialize Icons.",
+        "date": "03-27-2023",
+        "tech": ["html5", "css3", "bootstrap", "sass"]
+    },
+    {
+        "link": "https://cr-todolist-2903.netlify.app/",
+        "repository": "https://github.com/NielRodrigues/To-Do-List",
+        "img": "lista-de-tarefas.png",
+        "title": "Lista de Tarefas",
+        "description": "Meu primeiro projeto em React JS. Esse projeto eu desenvolvi para aplicar meus conhecimentos em React JS e também meus conhecimentos em HTML CSS e Javascript. O projeto consiste numa lista de tarefas simples em que o usuário adicione ou exclua tarefas em uma lista. Nesse projeto eu não trabalhei com o Local Storage, logo as informações são resetadas quando o usuário recarrega a página, isso porque o foco não era trabalhar com a memória local, sendo assim o projeto foi apenas para aplicar os conhecimentos, fundamentos e conceitos do React, como os: States, Components, Props, JSX, etc...",
+        "date": "03-29-2023",
+        "tech": ["html5", "css3", "javascript", "react"]
+    },
+    {
+        "link": "https://cr-controlefinanceiro-0104.netlify.app/",
+        "repository": "https://github.com/NielRodrigues/",
+        "img": "controle-financeiro.png",
+        "title": "Controle Financeiro",
+        "description": "Esse projeto eu contrui um aplicação web para controle financeiro, na qual o usuário detalhe seu recebimnetos e gastos. Para esse projeto, eu construi uma aplicação usando o React JS. O conceito desse projeto foi o mesmo utilizado no projeto da Lista de Tarefas, porém eu ainda utilizei o Local Storage para as informações não se perderem quando recarregar a página. Todos os fundamentos de React foram utilizado nesse projeto, bem como os conceitos avançados em HTML, CSS e Javascript",
+        "date": "04-01-2023",
+        "tech": ["html5", "css3", "javascript", "react"]
+    },
+    {
+        "link": "https://cr-api-github-0504.netlify.app/",
+        "repository": "https://github.com/NielRodrigues/api-git-hub",
+        "img": "api-github.png",
+        "title": "API GitHub",
+        "description": "Esse projeto em ReactJS foi um projeto que eu utilizei todos os fundamentos avançados que eu aprendi dessa Lib, utilizando States, Props, Components, etc, além dos meus conhecimentos em JavaScript, HTML e CSS.Na parte de Front End eu desenvolvi a estilização utilizando o Styled Components. Já para a Requisição da API do GitHub eu utilizei o Axios para pegar os dados dessa API de maneira assíncrona e salvando todos esse dados, como as informações do Usuário e os Repositórios, em uma variável de estado dentro de um componente funcional.",
+        "date": "04-05-2023",
+        "tech": ["html5", "css3", "javascript", "react"]
+    },
+    {
+        "link": "https://cr-weatherapp-1004.netlify.app/",
+        "repository": "https://github.com/NielRodrigues/api-clima-e-tempo",
+        "img": "weather-app.png",
+        "title": "Weather APP",
+        "description": "Esse é um aplicativo construindo em React que consulta o clima e tempo de cada cidade. O aplicativo consome uma API grátis (Open Weather) na qual o usuário pesquise por uma cidade e o aplicativo retorne dados e informações e exiba na tela. Para esse aplicativo foi feita a requisição de API utilizando 'FETCH'. Os conceitos como States, Components, Styled Components, JSX, Requisição de API, foram usados nesse projeto.",
+        "date": "04-10-2023",
+        "tech": ["html5", "css3", "javascript", "react"]
+    },
+    {
+        "link": "https://cr-pedidoonline-1704.netlify.app/",
+        "repository": "https://github.com/NielRodrigues/pedido-online",
+        "img": "pedido-online.png",
+        "title": "Pedido Online",
+        "description": "O 'Pedido Online' foi um projeto que desenvolvi para exemplicar um sistema de um restaurante delivery. O projeto foi feito em React com TypeScript aplicando todos os fundamentos de React, como Components, States e Props, além de Styled Components, Requisição de uma API interna utilizando o Axios e criação de Hooks personalizados.",
+        "date": "04-17-2023",
+        "tech": ["html5", "css3", "typescript", "react"]
+    },
+    {
+        "link": "https://coinradar.netlify.app/",
+        "repository": "https://github.com/NielRodrigues/CoinRadar",
+        "img": "coinradar.png",
+        "title": "Coin Radar",
+        "description": "O 'Coin Radar' é um aplicativo PWA feito em React. Ele serve para exibir as cotações de várias moedas em tempo real fazendo a conversão para outras moedas. Esse projeto foi o primeiro aplicativo em PWA que fiz utilizando React, nele foi feito requisições de API (awesomeapi) para adquirir as cotações, além de conceitos do styled components, uso do PropTypes, useSates e useEffect.",
+        "date": "05-10-2023",
+        "tech": ["html5", "css3", "javascript", "react"]
+    },
+    {
+        "link": "https://blocodenotasonline.netlify.app/",
+        "repository": "https://github.com/NielRodrigues/bloco-de-notas-online",
+        "img": "bloco-de-notas.png",
+        "title": "Bloco de Notas Online",
+        "description": "💻 Projeto: <br> Esse é um projeto fullstack simples feito em ReactJS + NodeJS. Ele serve para registrar novas anotações dos usuários (uma espécie de bloco de notas online) que são salvas automaticamente e pode ser acessada de qualquer dispositivo, e para registrar essas anotações é necessário registrar uma conta no site e fazer o login.<br><br>🛠️ Tecnologias utilizadas:<br>▪ ReactJS: utilizei o ReactJS para criar a parte do Frontend, eu escolhi ele por causa da sua criação de intefarce com componentização.<br>▪ NodeJS: o NodeJS foi utilizado para criar a API e consumir os dados diretamente do Banco de Dados.<br>▪ PostgreSQL: o Banco de Dados utilizado nesse projeto foi o PostgreSQL pela sua facilidade de se relacionar/conectar com NodeJS.<br>▪ ExpressJS: o Express foi o framework utilizado para realizar as requisições HTTP do lado do servidor pela sua facilidade na sua integração e organização do nosso projeto no padrão MVC.<br>▪ Sequelize: o ORM usado para esse projeto foi o Sequelize para realizar o CRUD e nos conectarmos e operarmos o Banco de Dados.<br>▪ Axios: o Axios foi a biblioteca utilizada no Frontend para realizar a integração à API.<br>▪ Local Storage: utilizei o Local Storage do navegador para armazenar os dados de Login de uma forma mais simples.<br>▪ Render: para fazer deploy da API e do Banco de Dados.<br><br>▪ Outros: outras bibliotecas como o Multer (para upload de arquivos) e Bcrypt (para criptografia das senhas) também foram utilizadas nesse projeto no Backend.",
+        "date": "05-29-2023",
+        "tech": ["html5", "css3", "javascript", "react", "node js", "postgresql"]
+    },
+    {
+        "link": "https://chatapponline.netlify.app/",
+        "repository": "https://github.com/NielRodrigues/chat-app",
+        "img": "chat-app.png",
+        "title": "ChatApp Online",
+        "description": "Nesse projeto FullStack eu desenvolvi um ChatAPP Online inspirado no WhatsApp Web. O Frontend eu utilizei o ReactJS por sua simplicidade na componentização. E no Backend eu utilizei NodeJS com express para realizar as requisições HTTP. Mas como se trata de um Chat, o servidor necessita de enviar essas emições de dados em tempo real sem a necessida do usuário/cliente ficar fazendo requisições toda hora do servidor, é aí que entra as Websockets que é responsável por fazer essas emições.",
+        "date": "06-14-2023",
+        "tech": ["html5", "css3", "javascript", "react", "node js", "postgresql"]
+    }
+]
