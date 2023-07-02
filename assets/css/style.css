@@ -317,7 +317,7 @@ main {
   max-width: 1360px;
   height: 90vh;
   max-height: 1000px;
-  background-image: url("../../src/image/background.jpg");
+  background-image: url("../../src/image/Pat.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -586,7 +586,7 @@ section#about section div.picture-about-me div.img {
   max-height: 480px;
   border-radius: 8px;
   margin-bottom: 0;
-  background-image: url("../../src/image/IMG_20230316_102817 - Editado (2).png");
+  background-image: url("../../src/image/IMG_29.png");
   background-size: cover;
   background-position: top;
 }
