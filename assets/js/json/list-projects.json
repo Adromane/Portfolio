@@ -55,7 +55,7 @@
     },
     {
         "link": "https://cr-weatherapp-1004.netlify.app/",
-        "repository": "https://github.com/NielRodrigues/api-clima-e-tempo",
+        "repository": "https://github.com/Adromane/APLI-m-t-o-et-m-t-o",
         "img": "weather-app.png",
         "title": "Weather APP",
         "description": "Esse é um aplicativo construindo em React que consulta o clima e tempo de cada cidade. O aplicativo consome uma API grátis (Open Weather) na qual o usuário pesquise por uma cidade e o aplicativo retorne dados e informações e exiba na tela. Para esse aplicativo foi feita a requisição de API utilizando 'FETCH'. Os conceitos como States, Components, Styled Components, JSX, Requisição de API, foram usados nesse projeto.",
