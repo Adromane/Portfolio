@@ -28,7 +28,7 @@
     },
     {
         "link": "https://cr-todolist-2903.netlify.app/",
-        "repository": "https://github.com/NielRodrigues/To-Do-List",
+        "repository": "https://github.com/Adromane/todo-list-yt",
         "img": "lista-de-tarefas.png",
         "title": "Lista de Tarefas",
         "description": "Meu primeiro projeto em React JS. Esse projeto eu desenvolvi para aplicar meus conhecimentos em React JS e também meus conhecimentos em HTML CSS e Javascript. O projeto consiste numa lista de tarefas simples em que o usuário adicione ou exclua tarefas em uma lista. Nesse projeto eu não trabalhei com o Local Storage, logo as informações são resetadas quando o usuário recarrega a página, isso porque o foco não era trabalhar com a memória local, sendo assim o projeto foi apenas para aplicar os conhecimentos, fundamentos e conceitos do React, como os: States, Components, Props, JSX, etc...",
