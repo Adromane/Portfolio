@@ -71,6 +71,7 @@
         "date": "04-17-2023",
         "tech": ["html5", "css3", "typescript", "react"]
     },
+    
     {
         "link": "https://blocodenotasonline.netlify.app/",
         "repository": "https://github.com/NielRodrigues/bloco-de-notas-online",
