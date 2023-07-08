@@ -28,7 +28,7 @@
     },
     {
         "link": "https://cr-todolist-2903.netlify.app/",
-        "repository": "https://github.com/NielRodrigues/To-Do-List",
+        "repository": "https://github.com/Adromane/todo-list-yt",
         "img": "lista-de-tarefas.png",
         "title": "Lista de Tarefas",
         "description": "Meu primeiro projeto em React JS. Esse projeto eu desenvolvi para aplicar meus conhecimentos em React JS e também meus conhecimentos em HTML CSS e Javascript. O projeto consiste numa lista de tarefas simples em que o usuário adicione ou exclua tarefas em uma lista. Nesse projeto eu não trabalhei com o Local Storage, logo as informações são resetadas quando o usuário recarrega a página, isso porque o foco não era trabalhar com a memória local, sendo assim o projeto foi apenas para aplicar os conhecimentos, fundamentos e conceitos do React, como os: States, Components, Props, JSX, etc...",
@@ -46,16 +46,16 @@
     },
     {
         "link": "https://cr-api-github-0504.netlify.app/",
-        "repository": "https://github.com/NielRodrigues/api-git-hub",
+        "repository": "https://github.com/Adromane/API-github",
         "img": "api-github.png",
         "title": "API GitHub",
-        "description": "Esse projeto em ReactJS foi um projeto que eu utilizei todos os fundamentos avançados que eu aprendi dessa Lib, utilizando States, Props, Components, etc, além dos meus conhecimentos em JavaScript, HTML e CSS.Na parte de Front End eu desenvolvi a estilização utilizando o Styled Components. Já para a Requisição da API do GitHub eu utilizei o Axios para pegar os dados dessa API de maneira assíncrona e salvando todos esse dados, como as informações do Usuário e os Repositórios, em uma variável de estado dentro de um componente funcional.",
+        "description": "Ce projet en ReactJS était un projet pour lequel j'ai utilisé tous les fondamentaux avancés que j'ai appris de cette Lib, en utilisant des États, des Props, des Composants, etc., en plus de mes connaissances en JavaScript, HTML et CSS. Dans la partie Front End, j'ai développé le style à l'aide des composants stylisés. En ce qui concerne la demande d'API GitHub, j'ai utilisé Axios pour obtenir des données de cette API de manière asynchrone et enregistrer toutes ces données, telles que les informations utilisateur et les référentiels, dans une variable d'état au sein d'un composant fonctionnel..",
         "date": "04-05-2023",
         "tech": ["html5", "css3", "javascript", "react"]
     },
     {
         "link": "https://cr-weatherapp-1004.netlify.app/",
-        "repository": "https://github.com/NielRodrigues/api-clima-e-tempo",
+        "repository": "https://github.com/Adromane/APLI-m-t-o-et-m-t-o",
         "img": "weather-app.png",
         "title": "Weather APP",
         "description": "Esse é um aplicativo construindo em React que consulta o clima e tempo de cada cidade. O aplicativo consome uma API grátis (Open Weather) na qual o usuário pesquise por uma cidade e o aplicativo retorne dados e informações e exiba na tela. Para esse aplicativo foi feita a requisição de API utilizando 'FETCH'. Os conceitos como States, Components, Styled Components, JSX, Requisição de API, foram usados nesse projeto.",
