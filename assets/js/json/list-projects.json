@@ -58,7 +58,7 @@
         "repository": "https://github.com/Adromane/APLI-m-t-o-et-m-t-o",
         "img": "weather-app.png",
         "title": "Weather APP",
-        "description": "Esse é um aplicativo construindo em React que consulta o clima e tempo de cada cidade. O aplicativo consome uma API grátis (Open Weather) na qual o usuário pesquise por uma cidade e o aplicativo retorne dados e informações e exiba na tela. Para esse aplicativo foi feita a requisição de API utilizando 'FETCH'. Os conceitos como States, Components, Styled Components, JSX, Requisição de API, foram usados nesse projeto.",
+        "description": "Il s'agit d'une application construite en React qui interroge la météo et la météo de chaque ville. L'application consomme une API gratuite (Open Weather) dans laquelle l'utilisateur recherche une ville et l'application renvoie des données et des informations et les affiche à l'écran. Pour cette application, une requête API a été effectuée à l'aide de 'FETCH'. Des concepts tels que States, Components, Styled Components, JSX, API Request, ont été utilisés dans ce projet.",
         "date": "04-10-2023",
         "tech": ["html5", "css3", "javascript", "react"]
     },
