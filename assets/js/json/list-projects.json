@@ -13,7 +13,7 @@
         "repository": "https://github.com/NielRodrigues/portfolio",
         "img": "portifolio.png",
         "title": "Portifólio",
-        "description": "Esse portifólio foi desenvolvido por mim utilizando os meus conhecimentos avançados em HTML5, CSS3 e Javascript. Para esse portifólio, primeiramente, eu desenvolvi o design no Figma aplicando meus habilidades como UX/UI Design. Eu também utilizei o pré-processador CSS para construir esse site, o SASS. Algumas bibliotecas como Typed.JS e Owl Carousel foram utilizadas nesse portifólio para esse site. Eu também desenvolvi animações para o Menu Mobile utilizando Javascript e CSS, aplicando também os conceitos de responsividade. Em Javascript eu apliquei também meu conhecimentos em AJAX para consumir um API pra envio de dados do formulário para meu email.",
+        "description": "Ce portfolio a été développé par moi en utilisant mes connaissances avancées en HTML5, CSS3 et Javascript. Pour ce portfolio, j'ai d'abord développé le design dans Figma en appliquant mes compétences en tant que UX/UI Design. J'ai également utilisé le préprocesseur CSS pour construire ce site, SASS. Certaines bibliothèques comme Typed.JS et Owl Carousel ont été utilisées dans ce portfolio pour ce site. J'ai également développé des animations pour le Menu Mobile en utilisant Javascript et CSS, en appliquant également les concepts de réactivité. En Javascript, j'ai également appliqué mes connaissances en AJAX pour utiliser une API pour envoyer des données de formulaire à mon e-mail.",
         "date": "03-21-2023",
         "tech": ["html5", "css3", "javascript", "sass"]
     },
