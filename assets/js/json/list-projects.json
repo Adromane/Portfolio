@@ -40,7 +40,7 @@
         "repository": "https://github.com/NielRodrigues/",
         "img": "controle-financeiro.png",
         "title": "Controle Financeiro",
-        "description": "Esse projeto eu contrui um aplicação web para controle financeiro, na qual o usuário detalhe seu recebimnetos e gastos. Para esse projeto, eu construi uma aplicação usando o React JS. O conceito desse projeto foi o mesmo utilizado no projeto da Lista de Tarefas, porém eu ainda utilizei o Local Storage para as informações não se perderem quando recarregar a página. Todos os fundamentos de React foram utilizado nesse projeto, bem como os conceitos avançados em HTML, CSS e Javascript",
+        "description": "Dans ce projet j'ai construit une application web de contrôle financier, dans laquelle l'utilisateur détaille ses recettes et ses dépenses. Pour ce projet, j'ai construit une application en utilisant React JS. Le concept de ce projet était le même que celui utilisé dans le projet Liste des tâches, mais j'ai toujours utilisé le stockage local afin que les informations ne soient pas perdues lors du rechargement de la page. Tous les fondamentaux de React ont été utilisés dans ce projet, ainsi que des concepts avancés en HTML, CSS et Javascript",
         "date": "04-01-2023",
         "tech": ["html5", "css3", "javascript", "react"]
     },
