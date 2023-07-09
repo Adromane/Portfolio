@@ -10,7 +10,7 @@
     },
     {
         "link": "https://carlosdanieldev.netlify.app/",
-        "repository": "https://github.com/NielRodrigues/portfolio",
+        "repository": "https://github.com/Adromane/Portfolio",
         "img": "portifolio.png",
         "title": "Portifólio",
         "description": "Ce portfolio a été développé par moi en utilisant mes connaissances avancées en HTML5, CSS3 et Javascript. Pour ce portfolio, j'ai d'abord développé le design dans Figma en appliquant mes compétences en tant que UX/UI Design. J'ai également utilisé le préprocesseur CSS pour construire ce site, SASS. Certaines bibliothèques comme Typed.JS et Owl Carousel ont été utilisées dans ce portfolio pour ce site. J'ai également développé des animations pour le Menu Mobile en utilisant Javascript et CSS, en appliquant également les concepts de réactivité. En Javascript, j'ai également appliqué mes connaissances en AJAX pour utiliser une API pour envoyer des données de formulaire à mon e-mail.",
