@@ -37,7 +37,7 @@
     },
     {
         "link": "https://cr-controlefinanceiro-0104.netlify.app/",
-        "repository": "https://github.com/NielRodrigues/",
+        "repository": "https://github.com/Adromane/contr-le-financier",
         "img": "controle-financeiro.png",
         "title": "Controle Financeiro",
         "description": "Esse projeto eu contrui um aplicação web para controle financeiro, na qual o usuário detalhe seu recebimnetos e gastos. Para esse projeto, eu construi uma aplicação usando o React JS. O conceito desse projeto foi o mesmo utilizado no projeto da Lista de Tarefas, porém eu ainda utilizei o Local Storage para as informações não se perderem quando recarregar a página. Todos os fundamentos de React foram utilizado nesse projeto, bem como os conceitos avançados em HTML, CSS e Javascript",
