@@ -4,7 +4,7 @@
         "repository": "https://github.com/NielRodrigues/ping-pong",
         "img": "ping-pong.png",
         "title": "PING PONG",
-        "description": "Esse é um projeto básico desenvolvido pelo canvas no HTML. É um jogo que manipula a posição de elementos na tela em tempo real.",
+        "description": "Il s'agit d'une conception de base développée par canvas en HTML. C'est un jeu qui manipule la position des éléments sur l'écran en temps réel.",
         "date": "02-22-2023",
         "tech": ["html5", "css3", "javascript"]
     },
