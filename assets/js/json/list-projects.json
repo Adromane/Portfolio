@@ -67,7 +67,7 @@
         "repository": "https://github.com/NielRodrigues/pedido-online",
         "img": "pedido-online.png",
         "title": "Pedido Online",
-        "description": "O 'Pedido Online' foi um projeto que desenvolvi para exemplicar um sistema de um restaurante delivery. O projeto foi feito em React com TypeScript aplicando todos os fundamentos de React, como Components, States e Props, além de Styled Components, Requisição de uma API interna utilizando o Axios e criação de Hooks personalizados.",
+        "description": "'Order Online' était un projet que j'ai développé pour illustrer un système de livraison de restaurant. Le projet a été réalisé en React avec TypeScript en appliquant tous les principes fondamentaux de React, tels que les composants, les états et les accessoires, en plus des composants stylés, en demandant une API interne à l'aide d'Axios et en créant des crochets personnalisés.",
         "date": "04-17-2023",
         "tech": ["html5", "css3", "typescript", "react"]
     },
