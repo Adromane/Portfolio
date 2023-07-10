@@ -9,7 +9,7 @@
     },
     {
         "link": "Logique de programmation de base",
-        "img": "programacao.png",
+        "img": "programacao.png", 
         "title": "LOGIQUE DE PROGRAMMATION - Basique",
         "description": "Il s'agit d'un cours de logique en programmation de base que j'ai suivi dans le cadre du cours Front End Master chez Dev Samurai.",
         "date": "02-22-2023",
