@@ -1,7 +1,7 @@
 [
     {
         "img": "course-dev-samurai.png",
-        "title": "CURSO FRONT END MASTER",
+        "title": "COURS DE MASTER FRONT-END",
         "description": "Le cours 'Front End Master' est un cours Dev Samurai que j'ai suivi pour améliorer mes compétences et mes connaissances pour la création de sites Web et d'applications Web. Grâce à ce cours, j'ai réussi à développer de nombreux projets, en plus d'apprendre les fondamentaux de base et avancés de HTML5, CSS3, JavaScript, TypeScript, React, Node JS, Bootstrap, entre autres technologies et frameworks",
         "date": "02-14-2023",
         "tech": ["html5", "css3", "javascript", "typescript", "node js", "react"]
