@@ -27,7 +27,7 @@
         "link": "JavaScript - avancée",
         "img": "javascript.svg",
         "title": "JavaScript - avancée",
-        "description": "Já nesse curso avnaçado de Javascript, eu aprendi sobre Funções, Manipulação de Dados, Manipulação de Array, DOM, Promises, JSON, Ajax, etc.",
+        "description": "Déjà dans ce cours Javascript avancé, j'ai appris les fonctions, la manipulation de données, la manipulation de tableaux, DOM, les promesses, JSON, Ajax, etc.",
         "date": "02-28-2023",
         "tech": ["javascript"]
     },
