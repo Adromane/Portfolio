@@ -16,7 +16,7 @@
     {
         "img": "course-python.jpg",
         "title": "CURSO pyhton - curso em vídeo",
-        "description": "O curso de Pyhton do 'Curso em Vídeo', é um curso gratuito que eu fiz. Ele foi o primeiro curso focado em Back End que eu fiz desde quando eu aprendi C++ na escola.",
+        "description": "Le cours Python 'Video Course' est un cours gratuit que j'ai suivi. C'était le premier cours axé sur le back-end que j'ai suivi depuis que j'ai appris le C++ à l'école.",
         "date": "01-01-2022",
         "tech": ["python"]
     }
