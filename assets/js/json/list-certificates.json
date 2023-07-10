@@ -2,7 +2,7 @@
     {
         "link": "JavaScript de base",
         "img": "javascript.svg",
-        "title": "JavaScript Básico",
+        "title": "JavaScript de base",
         "description": "Dans ce cours Javascript, j'ai compris toutes les bases de ce langage, à commencer par les variables, les expressions et les opérateurs, la structure de décision et la répétition, etc.",
         "date": "02-22-2023",
         "tech": ["javascript"]
