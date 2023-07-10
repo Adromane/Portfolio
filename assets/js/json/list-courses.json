@@ -9,7 +9,7 @@
     {
         "img": "course-udemy.png",
         "title": "CURSO typescript - udemy",
-        "description": "No curso de TypeScript básico da UDEMY eu aprendi todos os conceitos básico de tipagem de dados do Typescript, além do básico de Orientação a Objetos em Typescript.",
+        "description": "Dans le cours UDEMY Basic TypeScript, j'ai appris toutes les bases du typage de données Typescript, ainsi que les bases de l'orientation objet dans Typescript.",
         "date": "03-06-2023",
         "tech": ["typescript"]
     },
