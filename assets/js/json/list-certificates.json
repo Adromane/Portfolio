@@ -40,9 +40,9 @@
         "tech": ["html5"]
     },
     {
-        "link": "TypeScript Básico",
+        "link": "TypeScript de base",
         "img": "typescript.svg",
-        "title": "TypeScript Básico",
+        "title": "TypeScript de base",
         "description": "No curso de TypeScript da Dev Samurai eu aprendi os conceitos básicos, a Tipagem de Dados, Orientação a Obejtos, Funções, etc.",
         "date": "03-03-2023",
         "tech": ["typescript"]
