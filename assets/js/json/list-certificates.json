@@ -34,7 +34,7 @@
     {
         "link": "html_css",
         "img": "html5.svg",
-        "title": "HTML PARA PROGRAMADORES",
+        "title": "HTML POUR LES PROGRAMMEURS",
         "description": "Ici, j'ai appris toute la structure du HTML. Outre les concepts de base et les principales balises, formulaires, listes, tableaux, etc.",
         "date": "03-01-2023",
         "tech": ["html5"]
