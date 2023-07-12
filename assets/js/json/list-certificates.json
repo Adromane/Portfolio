@@ -59,7 +59,7 @@
         "link": "bootstrap-support",
         "img": "bootstrap.svg",
         "title": "Sites Web avec Bootstrap",
-        "description": "Nesse curso eu aprendi sobre o framework do CSS 'Bootstrap', na qual eu não o conhecia e pude conhecer e desenvolver meus porjetos com classes prontas e pre estabelecidas pelo framework, o que possibilita em uma produtividade mais eficiente.",
+        "description": "Dans ce cours j'ai découvert le framework CSS 'Bootstrap', que je ne connaissais pas et j'ai pu connaître et développer mes projets avec des classes toutes faites pré-établies par le framework, ce qui permet une productivité plus efficace.",
         "date": "03-23-2023",
         "tech": ["bootstrap"]
     },
