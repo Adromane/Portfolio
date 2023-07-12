@@ -72,7 +72,7 @@
         "tech": ["react"]
     },
     {
-        "link": "Node.JS Básico",  
+        "link": "Node.JS Básico",
         "img": "node-js.svg",
         "title": "Node.JS Básico",
         "description": "Nesse curso de 'Node.JS Básico' eu conseguir aprender todos os fundamentos e conceitos do NodeJS. Eu também aprendi os conceitos de uma API Rest, os status que um servidor pode repassar para o usuário, a como criar um servidor em ExpressJS, consumir parâmetros Query e Route, e utilizar o Insomnia.",
