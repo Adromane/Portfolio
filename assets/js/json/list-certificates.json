@@ -50,7 +50,7 @@
     {
         "link": "html_css",
         "img": "html5.svg",
-        "title": "Entendendo o HTML com o CSS",
+        "title": "Comprendre HTML avec CSS",
         "description": "No curso de HTML com CSS eu aprendi sobre os conceitos de Tags, os atributos que cada um pode receber, além da integração da página HTML com CSS. Sobre o conceitos de formulários, a sintaxe do CSS, seletores, cores, textos, etc.",
         "date": "03-12-2023",
         "tech": ["html5", "css3"]
