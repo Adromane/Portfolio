@@ -64,10 +64,10 @@
         "tech": ["bootstrap"]
     },
     {
-        "link": "Fundamentos do React.JS",
+        "link": "react-es",
         "img": "react.svg",
-        "title": "Fundamentos do React JS",
-        "description": "No curso de React eu aprendi todos os fundamentos do React, os conceitos de Components,States, Props, etc. Aprendi a como criar um aplicação Web com React JS e tudo que essa Lib do Javascript é capaz de fazer.",
+        "title": "Fondamentaux de ReactJS",
+        "description": "Dans le cours React, j'ai appris tous les fondamentaux de React, les concepts de composants, d'états, d'accessoires, etc. J'ai appris à créer une application Web avec React JS et tout ce que cette bibliothèque Javascript est capable de faire.",
         "date": "03-29-2023",
         "tech": ["react"]
     },
