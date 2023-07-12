@@ -64,7 +64,7 @@
         "tech": ["bootstrap"]
     },
     {
-        "link": "Fondamentaux de ReactJS",
+        "link": "react-es",
         "img": "react.svg",
         "title": "Fondamentaux de ReactJS",
         "description": "No curso de React eu aprendi todos os fundamentos do React, os conceitos de Components,States, Props, etc. Aprendi a como criar um aplicação Web com React JS e tudo que essa Lib do Javascript é capaz de fazer.",
