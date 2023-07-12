@@ -48,7 +48,7 @@
         "tech": ["typescript"]
     },
     {
-        "link": "Entendendo o HTML com o CSS",
+        "link": "html_css",
         "img": "html5.svg",
         "title": "Entendendo o HTML com o CSS",
         "description": "No curso de HTML com CSS eu aprendi sobre os conceitos de Tags, os atributos que cada um pode receber, além da integração da página HTML com CSS. Sobre o conceitos de formulários, a sintaxe do CSS, seletores, cores, textos, etc.",
