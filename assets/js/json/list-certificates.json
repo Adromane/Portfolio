@@ -51,7 +51,7 @@
         "link": "html_css",
         "img": "html5.svg",
         "title": "Comprendre HTML avec CSS",
-        "description": "No curso de HTML com CSS eu aprendi sobre os conceitos de Tags, os atributos que cada um pode receber, além da integração da página HTML com CSS. Sobre o conceitos de formulários, a sintaxe do CSS, seletores, cores, textos, etc.",
+        "description": "Dans le cours HTML avec CSS, j'ai appris les concepts de balises, les attributs que chacune peut recevoir, en plus de l'intégration de la page HTML avec CSS. À propos des concepts de formulaire, de la syntaxe CSS, des sélecteurs, des couleurs, des textes, etc.",
         "date": "03-12-2023",
         "tech": ["html5", "css3"]
     },
