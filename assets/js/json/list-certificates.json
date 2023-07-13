@@ -45,7 +45,7 @@
         "title": "TypeScript de base",
         "description": "Dans le cours TypeScript chez Dev Samurai, j'ai appris les concepts de base, le typage des données, l'orientation des objets, les fonctions, etc.",
         "date": "03-03-2023",
-        "tech": ["typescript"]
+        "tech": ["typescript"] 
     },
     {
         "link": "html_css",
