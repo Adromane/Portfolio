@@ -75,7 +75,7 @@
         "link": "Node.JS Básico",
         "img": "node-js.svg",
         "title": "Node.JS Básico",
-        "description": "Nesse curso de 'Node.JS Básico' eu conseguir aprender todos os fundamentos e conceitos do NodeJS. Eu também aprendi os conceitos de uma API Rest, os status que um servidor pode repassar para o usuário, a como criar um servidor em ExpressJS, consumir parâmetros Query e Route, e utilizar o Insomnia.",
+        "description": "Dans ce cours 'Basic Node.JS' j'ai pu apprendre tous les fondamentaux et concepts de NodeJS. J'ai également appris les concepts d'une API Rest, le statut qu'un serveur peut transmettre à l'utilisateur, comment créer un serveur dans ExpressJS, utiliser les paramètres Query et Route et utiliser Insomnia.",
         "date": "04-19-2023",
         "tech": ["nodejs"]
     },
