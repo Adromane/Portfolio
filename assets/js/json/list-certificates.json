@@ -90,7 +90,7 @@
     {
         "link": "Base de données avancée",
         "img": "postgresql.svg",
-        "title": "Banco de Dados Avançado",
+        "title": "BBase de données avancée",
         "description": "Nesse curso sobre Banco de Dados avançado eu aprendi a manipular as tabelas com filtros avançados com o uso do LIKE, IN, BETWEEN e LIMIT. Além de funções de agregação, combinar tabelas com o uso do JOIN, fazer transações e funções e os conceitos de ORMs, nuvens e NoSQL.",
         "date": "05-03-2023",
         "tech": ["postgresql"]
