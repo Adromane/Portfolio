@@ -82,14 +82,6 @@
     {
         "link": "Base de données avancée",
         "img": "postgresql.svg",
-        "title": "Base de données de base",
-        "description": "C'était le premier cours sur la base de données que j'ai suivi. Le gestionnaire de base de données utilisé était PostgreSQL. Dans ce cours, j'ai appris le fonctionnement d'une base de données et ses concepts de base, la structuration d'une base de données (MER), les attributs et les types de données, en plus d'apprendre les commandes de base pour manipuler des tables, telles que INSERT, SELECT, UPDATE, DELETE, etc. .",
-        "date": "04-25-2023",
-        "tech": ["postgresql"]
-    },
-    {
-        "link": "Base de données avancée",
-        "img": "postgresql.svg",
         "title": "BBase de données avancée",
         "description": "Dans ce cours avancé sur les bases de données, j'ai appris à manipuler des tables avec des filtres avancés en utilisant LIKE, IN, BETWEEN et LIMIT. En plus des fonctions d'agrégation, combinez des tables à l'aide de JOIN, effectuez des transactions et des fonctions et les concepts d'ORM, de nuages ​​et de NoSQL.",
         "date": "05-03-2023",
