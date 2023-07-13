@@ -72,26 +72,18 @@
         "tech": ["react"]
     },
     {
-        "link": "Node.JS Básico",
+        "link": "nodejs",
         "img": "node-js.svg",
-        "title": "Node.JS Básico",
-        "description": "Nesse curso de 'Node.JS Básico' eu conseguir aprender todos os fundamentos e conceitos do NodeJS. Eu também aprendi os conceitos de uma API Rest, os status que um servidor pode repassar para o usuário, a como criar um servidor em ExpressJS, consumir parâmetros Query e Route, e utilizar o Insomnia.",
+        "title": "Basic Node.JS",
+        "description": "Dans ce cours 'Basic Node.JS' j'ai pu apprendre tous les fondamentaux et concepts de NodeJS. J'ai également appris les concepts d'une API Rest, le statut qu'un serveur peut transmettre à l'utilisateur, comment créer un serveur dans ExpressJS, utiliser les paramètres Query et Route et utiliser Insomnia.",
         "date": "04-19-2023",
         "tech": ["nodejs"]
     },
     {
-        "link": "Base de données de base",
+        "link": "Base de données avancée",
         "img": "postgresql.svg",
-        "title": "Base de données de base",
-        "description": "C'était le premier cours sur la base de données que j'ai suivi. Le gestionnaire de base de données utilisé était PostgreSQL. Dans ce cours, j'ai appris le fonctionnement d'une base de données et ses concepts de base, la structuration d'une base de données (MER), les attributs et les types de données, en plus d'apprendre les commandes de base pour manipuler des tables, telles que INSERT, SELECT, UPDATE, DELETE, etc. .",
-        "date": "04-25-2023",
-        "tech": ["postgresql"]
-    },
-    {
-        "link": "Banco de Dados Avançado",
-        "img": "postgresql.svg",
-        "title": "Banco de Dados Avançado",
-        "description": "Nesse curso sobre Banco de Dados avançado eu aprendi a manipular as tabelas com filtros avançados com o uso do LIKE, IN, BETWEEN e LIMIT. Além de funções de agregação, combinar tabelas com o uso do JOIN, fazer transações e funções e os conceitos de ORMs, nuvens e NoSQL.",
+        "title": "Base de données avancée",
+        "description": "Dans ce cours avancé sur les bases de données, j'ai appris à manipuler des tables avec des filtres avancés en utilisant LIKE, IN, BETWEEN et LIMIT. En plus des fonctions d'agrégation, combinez des tables à l'aide de JOIN, effectuez des transactions et des fonctions et les concepts d'ORM, de nuages ​​et de NoSQL.",
         "date": "05-03-2023",
         "tech": ["postgresql"]
     },
