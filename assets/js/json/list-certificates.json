@@ -83,7 +83,7 @@
         "link": "Base de données de base",
         "img": "postgresql.svg",
         "title": "Base de données de base",
-        "description": "Esse foi o primeiro curso sobre Banco de Dados que eu fiz. O gerecidador de Banco de Dados utilizado foi o PostgreSQL. Nesse curso eu aprendi como funciona um banco de dados e seus conceitos básicos, estruturar um banco de dados (MER), atributos e tipos de dados, além de aprender os comandos básicos da manipulação de tabelas, como INSERT, SELECT, UPDATE, DELETE, etc...",
+        "description": "C'était le premier cours sur la base de données que j'ai suivi. Le gestionnaire de base de données utilisé était PostgreSQL. Dans ce cours, j'ai appris le fonctionnement d'une base de données et ses concepts de base, la structuration d'une base de données (MER), les attributs et les types de données, en plus d'apprendre les commandes de base pour manipuler des tables, telles que INSERT, SELECT, UPDATE, DELETE, etc. .",
         "date": "04-25-2023",
         "tech": ["postgresql"]
     },
